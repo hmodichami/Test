@@ -1,0 +1,176 @@
+*{
+    margin: 0px;
+    font-family: sans-serif;
+    scroll-behavior: smooth;
+    width:auto;
+}
+header h1{
+    font-size: 45px;
+    font-family: cursive;
+}
+
+
+header {
+    margin-bottom: 100px;
+    background-color: #175b9f;
+    color: white;
+    border-radius: 0 0 20px 20px;
+}
+
+header h1{
+    margin-bottom: 35px;
+}
+
+.line{
+display: flex;
+justify-content: space-around;
+padding-bottom: 20px;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+    margin-top: 7px;
+   display: inline-block;
+}
+
+
+ul li a:hover{
+    border-bottom:2px solid black ;
+    font-size: 20px;
+}
+
+.mode{
+    border: 2px solid ;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.my-img{
+    border-radius: 50%;
+    border-bottom: 3px solid #18cad3;
+    border-top: 3px solid #18cad3;
+    border-left: 3px solid #18cad3;
+    border-right: 3px solid #18cad3;
+    box-shadow: 2px 2px 50px #817676;
+    width: 150px;
+}
+h5{
+    font-family: "Playwrite AU QLD", cursive;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+h1{
+text-align: center;
+padding: 10px 0;
+width: 40%;
+margin-left: auto;
+margin-right: auto;
+}
+
+#home{
+border: 2px solid gray;
+margin-bottom: 100px;
+background-color: aliceblue;
+box-shadow: 5px 5px 25px #a5a1a1;
+border-radius: 20px;
+width: 85%;
+margin-left: auto;
+margin-right:auto ;
+font-size: 25px;
+
+}
+
+li{
+    list-style-type: none;
+    font-size: 18px;
+}
+
+
+
+
+#about{
+   border: 2px solid gray;
+   text-align: center;
+margin-bottom: 100px;
+background-color: aliceblue;
+box-shadow: 5px 5px 25px #a5a1a1;
+border-radius: 20px;
+width: 85%;
+margin-left: auto;
+margin-right:auto ;
+}
+
+.left-section,.right-section{
+
+    width: 50%;
+    text-align: center;
+    margin-top: 50px;
+margin: 20px;
+}
+
+.link{
+   
+    background-color: rgb(211, 31, 211);
+    color: white;
+   border-radius: 6px;
+    padding: 3px;
+    text-decoration: none;
+    margin: 10px;
+    
+}
+
+article a:hover{
+    padding: 4px 11px;
+    background-color:  rgb(211, 31, 211);
+    color: white;
+
+}
+.art{
+    display: flex;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 23px;
+    
+}
+h2{
+    font-size: 27px;
+ font-family:cursive ;
+}
+.ok{
+
+text-align: center;
+margin-top: 50px;
+width: 100%;
+justify-content: space-around;
+font-size: 23px;
+font-family: cursive;
+
+}
+footer{
+    
+    text-align: center;
+}
+
+.foot{
+     background-color: #175b9f;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    font-size: 19px;
+    font-family: monospace;
+}
+
+
+
+
+
+
+
+
+
+
+
